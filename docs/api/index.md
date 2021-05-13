@@ -1,0 +1,1 @@
+# KSqlDb.Client Specifications
